@@ -1,0 +1,24 @@
+{
+  "name": "coursera-bootstrap",
+  "version": "1.0.0",
+  "description": "This course is for learning git and npm ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorualawadhi/coursera-bootstrap.git"
+  },
+  "author": "Gaurav Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorualawadhi/coursera-bootstrap/issues"
+  },
+  "homepage": "https://github.com/gorualawadhi/coursera-bootstrap#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
